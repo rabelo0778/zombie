@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Blinding Lights [8 Bit Tribute to The Weeknd] - 8 Bit Universe (1) (online-audio-converter.com).ogg-40ccf7437bde519a2298ccec2d90048a.oggstr"
+
+[deps]
+
+source_file="res://audio/Blinding Lights [8 Bit Tribute to The Weeknd] - 8 Bit Universe (1) (online-audio-converter.com).ogg"
+dest_files=[ "res://.import/Blinding Lights [8 Bit Tribute to The Weeknd] - 8 Bit Universe (1) (online-audio-converter.com).ogg-40ccf7437bde519a2298ccec2d90048a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
